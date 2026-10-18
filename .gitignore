@@ -1,0 +1,5 @@
+# Real financial data must never be committed. Only fake sample data in samples/ is allowed.
+*.xlsx
+*.xls
+*.csv
+!samples/**
